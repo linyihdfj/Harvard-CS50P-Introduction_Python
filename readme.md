@@ -4,9 +4,12 @@ I will put my solution of problem and some resources there.
 
 I recommend you who attend this class to finish homework, because it's pretty good for you to practice and to find something new.
 
+Regarding shorts, I think it might be useful and not time-consuming.
+
 You can click [link](https://docs.python.org/3/library/stdtypes.html) to access to python library website.
 
 Schedule：
 
 - Week 0：Functions
 - Week 1：Conditionals
+- Week 2：Loops
