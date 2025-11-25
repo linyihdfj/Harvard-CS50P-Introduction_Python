@@ -8,8 +8,14 @@ Regarding shorts, I think it might be useful and not time-consuming.
 
 You can click [link](https://docs.python.org/3/library/stdtypes.html) to access to python library website.
 
+You can click [link](https://pypi.org/) to see something about python's external libraries.
+
+Maybe I use virtual environment here, so you cannot run these codes directly and you should install dependencies.
+
 Schedule：
 
 - Week 0：Functions
 - Week 1：Conditionals
 - Week 2：Loops
+- Week 3：Exceptions
+- Week 4：Libraries
